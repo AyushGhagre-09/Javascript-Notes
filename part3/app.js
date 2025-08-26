@@ -75,7 +75,7 @@ let primary = ["red", "yellow", "blue"];
 let secondary = ["orange", "green", "violet"];
 let allColors = primary.concat(secondary);
 console.log(allColors);
-console.log(allColors.reverse); //it will make the changes to original array
+console.log(allColors.reverse()); //it will make the changes to original array
 console.log(allColors.slice(1)); //it will create new array
 console.log(allColors.slice(2, 4));
 console.log(allColors.slice(-4, -2));
