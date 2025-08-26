@@ -97,7 +97,7 @@ names.sort()
 console.log(names)
 
 // for number it  will conveted it string and based on unicode value it will sort
-//  to sort it proerly use marks.sort((a,b)=>a-b);
+//  to sort it properly use marks.sort((a,b)=>a-b);
 let marks=[98,89,67,42,100]
 marks.sort()
 console.log(marks)
